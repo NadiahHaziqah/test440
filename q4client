@@ -1,4 +1,4 @@
-mport socket
+import socket
 
 def main():
     SERVER_IP = "192.168.142.130"  
